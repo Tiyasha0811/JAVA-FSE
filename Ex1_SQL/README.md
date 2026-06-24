@@ -1,3 +1,3 @@
 ## Scenario 1 Output
 
-![Scenario 1 Output](images/Screenshot (701).png)
+![Scenario 1 Output](images/Scene1.png)
