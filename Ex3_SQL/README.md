@@ -8,4 +8,5 @@
 
 ## Scenario 3 Output
 
-![Scenario 3 Output](images/Scene3.png)
+![Scenario 3 Output](images/Scene3_1.png)
+![Scenario 3 Output](images/Scene3_2.png)
